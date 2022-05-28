@@ -506,11 +506,11 @@ img {
 }
 
 .skills__python {
-  width: 90%;
+  width: 70%;
 }
 
 .skills__sql {
-  width: 80%;
+  width: 60%;
 }
 
 .skills__django {
@@ -518,7 +518,7 @@ img {
 }
 
 .skills__fastapi {
-  width: 60%;
+  width: 50%;
 }
 
 .skills__celery {
