@@ -557,6 +557,18 @@ img {
   width: 50%;
 }
 
+.skills__docker-swarm {
+  width: 20%;
+}
+
+.skills__kube {
+  width: 15%;
+}
+
+.skills__jenkins {
+  width: 35%;
+}
+
 .skills__close .skills__list {
   height: 0;
   overflow: hidden;
