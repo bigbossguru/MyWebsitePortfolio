@@ -1008,7 +1008,7 @@ img {
 
 /*==================== MEDIA QUERIES ====================*/
 /* For small devices */
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 400px) {
   .container {
     margin-left: var(--mb-1);
     margin-right: var(--mb-1);
@@ -1044,7 +1044,7 @@ img {
   }
 
   .services__content {
-    padding-right: 3.5rem;
+    padding-right: 4.5rem;
   }
 
   .services__modal {
